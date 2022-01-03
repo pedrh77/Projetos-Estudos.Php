@@ -15,10 +15,12 @@
  <p> <a href="10-Condicionais.php">Condicional I: </a>Sintaxe do If no PHP</p>
  <p> <a href="11-11-switch_Case.php">Condicional II: </a>Sintaxe do Switch Case no PHP</p>
  
+ <hr>
+ 
  ### Feito Por Pedro Santos
  <a href="https://github.com/pedrh77">
     <img width="60px" src="https://avatars.githubusercontent.com/u/66256107?v=4">
   </a>
 
- # Documentaçao em desenvolvimento
+ # Curso em andamento...
   
